@@ -1,10 +1,5 @@
 <?php
-/**
- * Created by PhpStorm.
- * User: Noah
- * Date: 11/12/13
- * Time: 10:46
- */
+
 
 // Het bestand class.TemplatePower.inc.php inladen
 include_once( "class.TemplatePower.inc.php" );
